@@ -11,7 +11,7 @@
 2. pytest --pylint
 3. pytest --pylin --cov
 
-
+'''
 Ex of pytest --pylint --cov 
 (venv) kerim@Kerim:~/Is601/hw2$ pytest --pylint --cov
 ====================== test session starts =======================
@@ -40,3 +40,4 @@ TOTAL                          9      0   100%
 
 ================== 2 passed, 2 skipped in 0.03s ==================
 (venv) kerim@Kerim:~/Is601/hw2$ 
+'''
